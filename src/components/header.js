@@ -1,5 +1,4 @@
 import Link from 'gatsby-link'
-
 import React from 'react'
 import {
   Collapse,
@@ -52,4 +51,3 @@ export default class Header extends React.Component {
     )
   }
 }
-

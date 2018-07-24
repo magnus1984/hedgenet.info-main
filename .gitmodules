@@ -1,0 +1,3 @@
+[submodule "src/webformation"]
+	path = src/webformation
+	url = git@gitserv:magnus1984/webformation.git
